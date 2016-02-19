@@ -5,8 +5,7 @@ Git collaboration demo
 hi
 
 # collaborators
-Nikitas Tampakis
-
-# maggie
-please add test
+* Nikitas Tampakis
+* Maggie
+* Benjamin Liu
 
